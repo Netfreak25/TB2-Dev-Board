@@ -1,0 +1,136 @@
+{
+  "unchanged_layers": [
+    "copperTop.gtl",
+    "copperBottom.gbl",
+    "pasteMaskTop.gtp",
+    "silkTop.gto",
+    "silkBottom.gbo"
+  ],
+  "ic_mask_webs": [
+    {
+      "pads": [
+        "U1.1",
+        "U1.2"
+      ],
+      "opening_height_mm": 0.5,
+      "web_mm": 0.149986,
+      "overlap": false
+    },
+    {
+      "pads": [
+        "U1.2",
+        "U1.3"
+      ],
+      "opening_height_mm": 0.5,
+      "web_mm": 0.150012,
+      "overlap": false
+    },
+    {
+      "pads": [
+        "U1.3",
+        "U1.4"
+      ],
+      "opening_height_mm": 0.5,
+      "web_mm": 0.149986,
+      "overlap": false
+    },
+    {
+      "pads": [
+        "U1.5",
+        "U1.6"
+      ],
+      "opening_height_mm": 0.5,
+      "web_mm": 0.149986,
+      "overlap": false
+    },
+    {
+      "pads": [
+        "U1.6",
+        "U1.7"
+      ],
+      "opening_height_mm": 0.5,
+      "web_mm": 0.150012,
+      "overlap": false
+    },
+    {
+      "pads": [
+        "U1.7",
+        "U1.8"
+      ],
+      "opening_height_mm": 0.5,
+      "web_mm": 0.149986,
+      "overlap": false
+    },
+    {
+      "pads": [
+        "U2.1",
+        "U2.2"
+      ],
+      "opening_height_mm": 0.5,
+      "web_mm": 0.150011,
+      "overlap": false
+    },
+    {
+      "pads": [
+        "U2.2",
+        "U2.3"
+      ],
+      "opening_height_mm": 0.5,
+      "web_mm": 0.149986,
+      "overlap": false
+    }
+  ],
+  "minimum_ic_mask_web_mm": 0.149986,
+  "via_holes_tented_both_sides": true,
+  "outline_mm": [
+    42.0,
+    20.0
+  ],
+  "drills": {
+    "PTH.drl": 39,
+    "NPTH.drl": 2
+  },
+  "qr": {
+    "text": "Netfreak",
+    "size_mm": 8.12,
+    "module_mm": 0.28,
+    "quiet_zone_modules": 4,
+    "mask_clearance_mm": 0.223,
+    "decoded_from_bottom_gerber": true,
+    "physical_print_scan_tested": false
+  },
+  "parts": 22,
+  "bom_positions": 17,
+  "smd": 19,
+  "tht": 3,
+  "quantity": 5,
+  "supplier_selections_pending": [
+    "J1",
+    "R1,R2,R9",
+    "R5",
+    "R6,R8",
+    "R7",
+    "R10",
+    "C1,C4",
+    "C2,C3",
+    "D1",
+    "D2"
+  ],
+  "hardware_revision": "1.0",
+  "release": "v1.0.1",
+  "corrections": {
+    "maskTop.gts": {
+      "via_openings_removed": 21,
+      "ic_openings_resized": 13
+    },
+    "maskBottom.gbs": {
+      "via_openings_removed": 21,
+      "ic_openings_resized": 0
+    }
+  },
+  "reset_power_cut_user_accepted": true,
+  "miniature_hardware_validated": false,
+  "production_order_placed": true,
+  "production_files_reviewed": true,
+  "status": "PRODUCTION FILES APPROVED; PHYSICAL HARDWARE VALIDATION PENDING"
+}

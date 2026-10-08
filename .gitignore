@@ -1,0 +1,15 @@
+# Credentials and local device data must never enter this PCB repository.
+*.ppk
+*.pem
+*.key
+*.p12
+*.pfx
+*.bin
+*.dump
+*Token.txt
+*token.txt
+.env
+.env.*
+__pycache__/
+.DS_Store
+Thumbs.db
