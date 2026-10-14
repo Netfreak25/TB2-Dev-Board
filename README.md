@@ -11,6 +11,7 @@ A compact **3.3 V SPI adapter for Flipper Zero** that connects an SOP8 clip cabl
 - **[Release v1.0.1 with PCBWay files](/Netfreak25/TB2-Dev-Board/releases/tag/v1.0.1)**
 - **[PCBWay ordering guide](docs/pcbway-ordering.md)** with configuration, upload mapping, and assembly notes.
 - **[Editable Fritzing design](hardware/TB2-Dev-Board-Rev1.0.fzz)** and [editing notes](docs/editing.md).
+- **[3D-printable enclosure](enclosure/README.md)** with a slicer project, individual STL models, and an OpenSCAD entry point.
 - [Pin mapping and operation](docs/hardware.md), [assembly drawing](docs/Assembly.pdf), and [mechanical requirements](docs/Mechanical-requirements.pdf).
 
 ## Board functions

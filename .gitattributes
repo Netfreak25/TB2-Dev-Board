@@ -3,4 +3,7 @@
 *.zip binary
 *.pdf binary
 *.png binary
+*.3mf binary
+*.stl binary
+*.scad text eol=lf
 manufacturing/pcbway/* -text
