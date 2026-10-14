@@ -2,6 +2,12 @@
 
 This directory contains the current enclosure for the TB2 Dev Board.
 
+![Exploded view of the TB2 Dev Board enclosure](TB2_Dev_Board_Case_exploded.png)
+
+The exploded view shows the lid, M2 hardware, POWER and RESET controls, PCB
+position, heat-set inserts, and base from an angle that keeps their alignment
+visible.
+
 ## Recommended file
 
 Open [`TB2_Dev_Board_Case.3mf`](TB2_Dev_Board_Case.3mf) as a project in

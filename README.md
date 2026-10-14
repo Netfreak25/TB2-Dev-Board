@@ -14,6 +14,8 @@ A compact **3.3 V SPI adapter for Flipper Zero** that connects an SOP8 clip cabl
 - **[3D-printable enclosure](enclosure/README.md)** with a slicer project, individual STL models, and an OpenSCAD entry point.
 - [Pin mapping and operation](docs/hardware.md), [assembly drawing](docs/Assembly.pdf), and [mechanical requirements](docs/Mechanical-requirements.pdf).
 
+![Exploded view of the TB2 Dev Board enclosure](enclosure/TB2_Dev_Board_Case_exploded.png)
+
 ## Board functions
 
 | Function | Implementation |
